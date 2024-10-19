@@ -11,10 +11,10 @@ OpenWeatherMap API
 
 ## Instruction
 ### Clone the github repository
-    git clone https://github.com/saumil16/zeotap-assignment.git 
+    git clone https://github.com/MuditAggarwal1/zeotap-assignment.git 
 ### For assignment 1
     cd zeotap-assignment/APPLICATION1
 ### For assignment 2
     cd zeotap-assignment/APPLICATION2
 
-Note - Both the above assignments contains their respective readme file to build and run the project.
+Each of the above assignments includes a dedicated readme file with instructions to build and run the project.
